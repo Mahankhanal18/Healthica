@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "822618049417",
+        "project_id": "itmatters-a93eb",
+        "storage_bucket": "itmatters-a93eb.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:822618049417:android:cfa34b4802a80b42c6af58",
+                "android_client_info": {
+                    "package_name": "com.itmatters.healthica"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "822618049417-u9u5gfc79s2e61d98rnb5qobbbiis3oh.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.itmatters.healthica",
+                        "certificate_hash": "fe4341ef016ccb529909634b8cdd8a146925be2f"
+                    }
+                },
+                {
+                    "client_id": "822618049417-k8qjt2t54hv55f7utht7a94qhdr61l7b.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDNsSSAUVCLWOlE0WU43q4h2MHXAnmDK08"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "822618049417-k8qjt2t54hv55f7utht7a94qhdr61l7b.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
